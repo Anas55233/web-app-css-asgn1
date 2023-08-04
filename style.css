@@ -1,0 +1,67 @@
+
+
+body {
+    max-width: 1450px;
+    margin: 20px auto;
+    background-color: rgb(117, 117, 249);
+    color: white;
+}
+
+
+.navbar {
+    width: 100%;
+    border: 2px solid yellow;
+    text-align: center;
+    height: 60px;
+    color: white;
+}
+
+.home:hover {
+text-decoration: underline;
+color: green;
+}
+
+td {
+    border-right: 2px solid black;
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+td:hover {
+    font-size: x-large;
+
+}
+
+.image {
+    display: flex;
+}
+
+img {
+    margin-top: 10px;
+    width: 730px;
+    height: 100%;
+}
+
+.menu-head {
+    font-size: 60px;
+    text-align: center;
+}
+
+th {
+    border-right: 2px solid black;
+    font-weight: bold;
+    font-size: large;
+    color: white;
+}
+
+a {
+    
+    text-decoration: none;
+    color: black;
+}
+
+.menu-head2 {
+    font-size: 60px;
+    text-align: center;
+}
+
